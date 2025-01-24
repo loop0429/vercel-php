@@ -1,0 +1,8 @@
+{
+    "name": "app/guzzle",
+    "description": "Project with Guzzle HTTP client",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
